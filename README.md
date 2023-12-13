@@ -20,3 +20,6 @@ Starter Code
 SQL
 - crowdfunding_db_edb.sql (QuickDBD)
 - crowdfunding_db_schema.sql 
+
+Slide link
+https://docs.google.com/presentation/d/1dKzeFIMmD5z9XETGQYhwFe5li5iugb3DWkfDQh65IOE/edit?usp=sharing
